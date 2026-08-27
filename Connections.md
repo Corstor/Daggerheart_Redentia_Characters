@@ -12,7 +12,7 @@ why are you worried about it?
 
 ### Answers
 
-1. Solanum - . Cyllaros - .
+1. Solanum - Sul cacciare facciamo a gara su chi prende la preda più grande, solitamente vinco io, però la competizione è divertente per la capacità di fiuto che ha Solanum per le prede messe in difficoltà. Cyllaros - Riconoscere le erbe rare e trovare la più caratteristica.
 2. Solanum - Perchè nonostante tutto ci tiene a me e vuole proteggermi. Cyllaros - Non sa come comportarsi con i coetanei e le ragazze ed è impacciato.
 3. Solanum - Fuori Sylvan devi sempre girare con un'armatura e un'arma perchè non puoi fidarti fino in fondo di chi ti trovi davanti. Cyllaros - Non devo fidarmi di una voce che dice di essere i miei genitori, perchè a qualche spirito piace fingere.
 
