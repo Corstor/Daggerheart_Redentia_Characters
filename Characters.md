@@ -23,6 +23,12 @@
     - [Problema attuale](#problema-attuale-3)
     - [Segreto](#segreto-3)
     - [Quick Reference](#quick-reference-3)
+  - [Dena](#dena)
+    - [Descrizione](#descrizione-4)
+    - [Hooks](#hooks-4)
+    - [Problema attuale](#problema-attuale-4)
+    - [Segreto](#segreto-4)
+    - [Quick Reference](#quick-reference-4)
 
 
 # Personaggi
@@ -133,9 +139,9 @@ _E' il re dei nani, ma gli piace comunque andare in giro da solo in quanto un fo
 
 ### Problema attuale
 
-| Chi/Cosa riguarda         | Come prova a risolverlo           |
-| ------------------------- | --------------------------------- |
-| Automi e moglie scomparsa | Non fa nulla in quanto spaventato |
+| Chi/Cosa riguarda                  | Come prova a risolverlo                                                                    |
+| ---------------------------------- | ------------------------------------------------------------------------------------------ |
+| Automi, la moglie Dena è scomparsa | Non fa nulla in quanto spaventato, e pensa che lei lo abbia abbandonato in quanto "debole" |
 
 ### Segreto
 
@@ -146,3 +152,33 @@ _E' stato torturato da degli automi in passato, rimanendone traumatizzato ora no
 | 3 parole                  | Modo di parlare | Si ricorda per                                |
 | ------------------------- | --------------- | --------------------------------------------- |
 | Muto, Traumatizzato, Elfo | Non parla       | Non parlare mai, sembre indifferente su tutto |
+
+## Dena
+
+### Descrizione
+
+| Obbiettivi                              | Come li raggiunge                                                                                          |
+| --------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Aiutare il marito, Nedyr, a riprendersi | Gli mostra supporto e prova a parlare con chiunque per capire se hanno visto degli automi da qualche parte |
+
+### Hooks
+
+| Dettagli                               | Modo di parlare                                                                                  |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Vecchia, Testarda e ormai senza lingua | Frenita, non può parlare ma prova comunque in quanto non abituata e questa cosa la frustra molto |
+
+### Problema attuale
+
+| Chi/Cosa riguarda         | Come prova a risolverlo                                                                |
+| ------------------------- | -------------------------------------------------------------------------------------- |
+| Gli automi l'hanno rapita | Corre il più veloce possibile verso Sylvan dopo esser riuscita a scappare dagli automi |
+
+### Segreto
+
+_Ha con sé un pezzo di carta con scritto cosa prova per il marito, ovvero amore e che cerca di aiutarlo, che pensa che sia forte e che non lo abbandonerà mai. Gli automi le hanno tagliato la lingua._
+
+### Quick Reference
+
+| 3 parole             | Modo di parlare | Si ricorda per                                  |
+| -------------------- | --------------- | ----------------------------------------------- |
+| Vecchia senza lingua | Non può parlare | Essere la moglie di Nedyr e non avere la lingua |
