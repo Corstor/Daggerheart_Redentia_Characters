@@ -1,10 +1,13 @@
 # [Characters](./Characters.md)
 
+# [Connections](./Connections.md)
+
 # Redentia
 
 ## Indice
 
 - [Characters](#characters)
+- [Connections](#connections)
 - [Redentia](#redentia)
   - [Indice](#indice)
   - [Aeder](#aeder)
