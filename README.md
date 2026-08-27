@@ -1,13 +1,18 @@
+# [Characters](./Characters.md)
+
 # Redentia
 
 ## Indice
 
-- [Aeder](#aeder)
-- [Kontir](#kontir)
-- [Soltan](#soltan)
-- [Limior](#limior)
-- [Il Vecchio Mondo](#il-vecchio-mondo)
-- [Il Primo Re](#il-primo-re)
+- [Characters](#characters)
+- [Redentia](#redentia)
+  - [Indice](#indice)
+  - [Aeder](#aeder)
+  - [Kontir](#kontir)
+  - [Soltan](#soltan)
+  - [Limior](#limior)
+  - [Il Vecchio Mondo](#il-vecchio-mondo)
+  - [Il Primo Re](#il-primo-re)
 
 **_Anno corrente_**: anno 9999
 
