@@ -165,7 +165,7 @@ _E' stato torturato da degli automi in passato, rimanendone traumatizzato ora no
 | ------------------------- | --------------- | --------------------------------------------- |
 | Muto, Traumatizzato, Elfo | Non parla       | Non parlare mai, sembra indifferente su tutto |
 
-## Dena - Elfa
+## [Dena](./imgs/characters/Dena.png) - Elfa
 
 ### Descrizione
 
