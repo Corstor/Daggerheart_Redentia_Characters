@@ -29,6 +29,12 @@
     - [Problema attuale](#problema-attuale-4)
     - [Segreto](#segreto-4)
     - [Quick Reference](#quick-reference-4)
+  - [Strages](#strages)
+    - [Descrizione](#descrizione-5)
+    - [Hooks](#hooks-5)
+    - [Problema attuale](#problema-attuale-5)
+    - [Segreto](#segreto-5)
+    - [Quick Reference](#quick-reference-5)
 
 
 # Personaggi
@@ -182,3 +188,33 @@ _Ha con sé un pezzo di carta con scritto cosa prova per il marito, ovvero amore
 | 3 parole             | Modo di parlare | Si ricorda per                                  |
 | -------------------- | --------------- | ----------------------------------------------- |
 | Vecchia senza lingua | Non può parlare | Essere la moglie di Nedyr e non avere la lingua |
+
+## Strages
+
+### Descrizione
+
+| Obbiettivi                                                           | Come li raggiunge                                                                                                                                                                    |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Distruggere tutte le razze organiche in quanto inferiori agli automi | Ha progettato un macchinario magico per estinguere le razze organiche, grazie alla magia di sangue di Solanum e alle ultime razze rimaste di cui prendere il sangue, simieh e fauni. |
+
+### Hooks
+
+| Dettagli                                                                                                 | Modo di parlare                                                               |
+| -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Si trova dentro Solanum e può prendere il controllo del suo corpo quando vuole, ma non vive i suoi sogni | Inquietante, minaccioso, aggressivo e assertivo, parla come un completo folle |
+
+### Problema attuale
+
+| Chi/Cosa riguarda                                                                                                                        | Come prova a risolverlo                                                                                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Tornare al laboratorio con le conoscenze della magia di sangue e allo stesso tempo impedendo che Lyra e Cyllaros boicottino il suo piano | Finge di non esistere e fa in modo che Solanum si faccia abbastanza amica loro due per fregarli all'ultimo momento |
+
+### Segreto
+
+_La sua coscienza si trova dentro Solanum fingendo di non esistere._
+
+### Quick Reference
+
+| 3 parole                  | Modo di parlare             | Si ricorda per           |
+| ------------------------- | --------------------------- | ------------------------ |
+| automa, Solanum, nascosto | Inquietante e intimidatorio | Essere un pezzo di merda |
