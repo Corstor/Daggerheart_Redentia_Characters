@@ -35,6 +35,12 @@
     - [Problema attuale](#problema-attuale-5)
     - [Segreto](#segreto-5)
     - [Quick Reference](#quick-reference-5)
+  - [Honder](#honder)
+    - [Descrizione](#descrizione-6)
+    - [Hooks](#hooks-6)
+    - [Problema attuale](#problema-attuale-6)
+    - [Segreto](#segreto-6)
+    - [Quick Reference](#quick-reference-6)
 
 
 # Personaggi
@@ -218,3 +224,33 @@ _La sua coscienza si trova dentro Solanum fingendo di non esistere._
 | 3 parole                  | Modo di parlare             | Si ricorda per           |
 | ------------------------- | --------------------------- | ------------------------ |
 | automa, Solanum, nascosto | Inquietante e intimidatorio | Essere un pezzo di merda |
+
+## Honder
+
+### Descrizione
+
+| Obbiettivi                           | Come li raggiunge                                                                     |
+| ------------------------------------ | ------------------------------------------------------------------------------------- |
+| Fare da guardia al portale di Sylvan | Controlla che ogni cittadino che entra o esce dal portale abbia i documenti necessari |
+
+### Hooks
+
+| Dettagli                                                                                         | Modo di parlare    |
+| ------------------------------------------------------------------------------------------------ | ------------------ |
+| E' un umano estremamente diligente, a tal punto che persino le altre guardie lo prendono in giro | Sicuro e assertivo |
+
+### Problema attuale
+
+| Chi/Cosa riguarda                                                                   | Come prova a risolverlo                                                |
+| ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Sabril vuole che certi agenti, come Solanum, restino nel Limior, lui non sa perchè. | Se qualcuno di questi agenti prova a lasciare il Limior, lui li ferma. |
+
+### Segreto
+
+_Il lavoro gli serve per mantenere la sua famiglia, in particolare per pagare le spese mediche della moglie in coma e l'istruzione della figlia, per questo non può permettersi errori sul lavoro._
+
+### Quick Reference
+
+| 3 parole                    | Modo di parlare    | Si ricorda per                                             |
+| --------------------------- | ------------------ | ---------------------------------------------------------- |
+| Guardia, Diligente, Portale | Sicuro e assertivo | Essere estremamente diligente ed impossibile da convincere |
