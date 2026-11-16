@@ -17,25 +17,25 @@
     - [Problema attuale](#problema-attuale-2)
     - [Segreto](#segreto-2)
     - [Quick Reference](#quick-reference-2)
-  - [Nedyr](#nedyr)
+  - [Nedyr - Elfo](#nedyr---elfo)
     - [Descrizione](#descrizione-3)
     - [Hooks](#hooks-3)
     - [Problema attuale](#problema-attuale-3)
     - [Segreto](#segreto-3)
     - [Quick Reference](#quick-reference-3)
-  - [Dena](#dena)
+  - [Dena - Elfa](#dena---elfa)
     - [Descrizione](#descrizione-4)
     - [Hooks](#hooks-4)
     - [Problema attuale](#problema-attuale-4)
     - [Segreto](#segreto-4)
     - [Quick Reference](#quick-reference-4)
-  - [Strages](#strages)
+  - [Strages - Automa](#strages---automa)
     - [Descrizione](#descrizione-5)
     - [Hooks](#hooks-5)
     - [Problema attuale](#problema-attuale-5)
     - [Segreto](#segreto-5)
     - [Quick Reference](#quick-reference-5)
-  - [Honder](#honder)
+  - [Honder - Umano](#honder---umano)
     - [Descrizione](#descrizione-6)
     - [Hooks](#hooks-6)
     - [Problema attuale](#problema-attuale-6)
@@ -135,7 +135,7 @@ _E' il re dei nani, ma gli piace comunque andare in giro da solo in quanto un fo
 | ---------------------- | --------------------------------- | ------------------------- |
 | Nani, Automi, Nascosto | Sicuro, Misterioso, Voce profonda | Pipa, accette, misterioso |
 
-## Nedyr
+## [Nedyr](./imgs/characters/Nedyr.png) - Elfo
 
 ### Descrizione
 
@@ -145,9 +145,9 @@ _E' il re dei nani, ma gli piace comunque andare in giro da solo in quanto un fo
 
 ### Hooks
 
-| Dettagli      | Modo di parlare |
-| ------------- | --------------- |
-| Muto, Vecchio | Non parla       |
+| Dettagli                                             | Modo di parlare |
+| ---------------------------------------------------- | --------------- |
+| Muto, Vecchio, ha una cicatrice sulla guancia destra | Non parla       |
 
 ### Problema attuale
 
@@ -163,9 +163,9 @@ _E' stato torturato da degli automi in passato, rimanendone traumatizzato ora no
 
 | 3 parole                  | Modo di parlare | Si ricorda per                                |
 | ------------------------- | --------------- | --------------------------------------------- |
-| Muto, Traumatizzato, Elfo | Non parla       | Non parlare mai, sembre indifferente su tutto |
+| Muto, Traumatizzato, Elfo | Non parla       | Non parlare mai, sembra indifferente su tutto |
 
-## Dena
+## Dena - Elfa
 
 ### Descrizione
 
@@ -175,9 +175,9 @@ _E' stato torturato da degli automi in passato, rimanendone traumatizzato ora no
 
 ### Hooks
 
-| Dettagli                               | Modo di parlare                                                                                  |
-| -------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| Vecchia, Testarda e ormai senza lingua | Frenita, non può parlare ma prova comunque in quanto non abituata e questa cosa la frustra molto |
+| Dettagli                               | Modo di parlare                                                                         |
+| -------------------------------------- | --------------------------------------------------------------------------------------- |
+| Vecchia, Testarda e ormai senza lingua | Non può parlare ma prova comunque in quanto non abituata e questa cosa la frustra molto |
 
 ### Problema attuale
 
@@ -195,7 +195,7 @@ _Ha con sé un pezzo di carta con scritto cosa prova per il marito, ovvero amore
 | -------------------- | --------------- | ----------------------------------------------- |
 | Vecchia senza lingua | Non può parlare | Essere la moglie di Nedyr e non avere la lingua |
 
-## Strages
+## Strages - Automa
 
 ### Descrizione
 
@@ -225,7 +225,7 @@ _La sua coscienza si trova dentro Solanum fingendo di non esistere._
 | ------------------------- | --------------------------- | ------------------------ |
 | automa, Solanum, nascosto | Inquietante e intimidatorio | Essere un pezzo di merda |
 
-## Honder
+## Honder - Umano
 
 ### Descrizione
 
